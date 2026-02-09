@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-## Hi there 👋<br><br>- 🔭 I’m currently working on full-stack web projects and backend workflows  <br>- 🌱 I’m currently learning AI concepts through deepfake detection and analysis projects  <br>- 👯 I’m looking to collaborate on web development or beginner AI projects  <br>- 🤔 I’m looking for help with improving backend logic and ML workflows  <br>- 💬 Ask me about JavaScript, REST APIs, or getting started with full-stack projects  <br>- 📫 How to reach me: shivamsrivastav9889@gmail.com  <br>- 📸 Instagram: https://instagram.com/Shivam.S_7<br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I learn best by building, breaking, and fixing things myself<br><br>
+## Hi there 👋<br><br>- 🔭 I’m currently working on full-stack web projects and backend workflows  <br>- - 🌱 Learning backend development and exploring machine learning through practical projects <br>- 👯 I’m looking to collaborate on web development or beginner AI projects  <br>- 🤔 I’m looking for help with improving backend logic and ML workflows  <br>- 💬 Ask me about JavaScript, REST APIs, or getting started with full-stack projects  <br>- 📫 How to reach me: shivamsrivastav9889@gmail.com  <br>- 📸 Instagram: https://instagram.com/Shivam.S_7<br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I learn best by building, breaking, and fixing things myself<br><br>
 
 
 ## 🌐 Socials:
